@@ -1,0 +1,21 @@
+id,brand,type,size cl,batch,qty pr carton,qty pr pallet,image url
+1,NordWear,tshirt,32,2023-Jan,20,800,tshirt32.jpg
+2,NordWear,jeans,34,2023-Feb,15,600,jeans34.jpg
+3,NordWear,jacket,38,2023-Mar,10,400,jacket38.jpg
+4,NordWear,shirt,40,2023-Apr,25,1000,shirt40.jpg
+5,NordWear,hoodie,42,2023-May,12,500,hoodie42.jpg
+6,NordWear,tshirt,36,2023-Jun,20,800,tshirt36.jpg
+7,NordWear,jeans,30,2023-Jul,15,600,jeans30.jpg
+8,NordWear,jacket,44,2023-Aug,10,400,jacket44.jpg
+9,NordWear,shirt,38,2023-Sep,25,1000,shirt38.jpg
+10,NordWear,hoodie,46,2023-Oct,12,500,hoodie46.jpg
+11,NordWear,tshirt,34,2023-Nov,20,800,tshirt34.jpg
+12,NordWear,jeans,32,2023-Dec,15,600,jeans32.png
+13,NordWear,jacket,40,2024-Jan,10,400,jacket40.jpg
+14,NordWear,shirt,42,2024-Feb,25,1000,shirt42.jpg
+15,NordWear,hoodie,48,2024-Mar,12,500,hoodie48.jpg
+16,NordWear,tshirt,38,2024-Apr,20,800,tshirt38.jpg
+17,NordWear,jeans,36,2024-May,15,600,jeans36.jpg
+18,NordWear,jacket,46,2024-Jun,10,400,jacket46.jpg
+19,NordWear,shirt,44,2024-Jul,25,1000,shirt44.jpg
+20,NordWear,hoodie,50,2024-Aug,12,500,hoodie50.jpg
